@@ -23,7 +23,6 @@ namespace EmotePlayer
                 Force_Unlock_Mouse = true
             };
             UniverseLib.Universe.Init(1f, OnUIInit, (x, y) => { }, config);
-            Debug.Log("public bool Force_Unlock_Mouse = true");
         }
 
         public static void OnUIInit()
