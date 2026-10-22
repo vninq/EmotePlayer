@@ -14,6 +14,6 @@ The path maybe different if bepinex is loacated somewhere else.
 
 ## Dependencies
 
-[BepInEx 5.4.23.5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5)
+ - [BepInEx 5.4.23.5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5)
 
-[UniverseLib.Mono](https://github.com/sinai-dev/UniverseLib/releases/tag/1.5.1)<sub> its kind of outdated
+ - [UniverseLib.Mono](https://github.com/sinai-dev/UniverseLib/releases/tag/1.5.1)<sub> its kind of outdated
