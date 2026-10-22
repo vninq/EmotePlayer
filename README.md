@@ -10,7 +10,7 @@ press `f4` to open it.
 Extract the zip and in the `Release` folder you will find the .dll drag that into the `plugins` folder:
  `C:\Program Files (x86)\Steam\steamapps\common\Wobbly Life\BepInEx\plugins`
 
-The path maybe different for you if bepinex is loacated somewhere else.
+The path maybe different if bepinex is loacated somewhere else.
 
 ## Dependencies
 
