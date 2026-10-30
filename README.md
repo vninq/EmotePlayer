@@ -2,7 +2,8 @@
 
 #### Need help join the [discord](https://discord.gg/C4jfjBmvWQ)
 
-An emote player for wobbly life. it has all emotes but no text bubble like projectmods.
+An emote player for wobbly life.
+it has all emotes but no text bubble like projectmods.
 press `f4` to open it.
 
 ## Instalation 
