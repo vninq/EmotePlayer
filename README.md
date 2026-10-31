@@ -5,6 +5,7 @@
 An emote player for wobbly life.
 it has all emotes but no text bubble like projectmods.
 press `f4` to open it.
+(NOT MADE WITH AI)
 
 ## Instalation 
 
