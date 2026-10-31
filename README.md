@@ -13,6 +13,14 @@ Extract the zip and in the `Release` folder you will find the .dll drag that int
 
 The path maybe different if bepinex is loacated somewhere else.
 
+emote player now has custom config
+```ini
+DisableGameInput = true
+KeyToggle = f4
+```
+change these settings in `C:\Program Files (x86)\Steam\steamapps\common\Wobbly Life\BepInEx\config\EmotePlayer.cfg`
+or download [BepInExConfigManager](https://github.com/sinai-dev/BepInExConfigManager/releases/tag/1.3.0)
+
 ## Dependencies
 
  - [BepInEx 5.4.23.5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5)
