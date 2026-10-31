@@ -105,9 +105,5 @@ namespace EmotePlayer
             }
         }
 
-        private static void GetPlayerType(PlayerController controller, PlayerCharacter character)
-        {
-            throw null;
-        }
     }
 }
