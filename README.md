@@ -1,11 +1,9 @@
 # Emote Player
 
-#### Need help join the [discord](https://discord.gg/C4jfjBmvWQ)
-
-An emote player for wobbly life.
+An emote player for wobbly life
 it has all emotes but no text bubble like projectmods.
-press `f4` to open it.
-(NOT MADE WITH AI)
+
+press `f4` to open it
 
 ## Instalation 
 
@@ -27,3 +25,6 @@ or download [BepInExConfigManager](https://github.com/sinai-dev/BepInExConfigMan
  - [BepInEx 5.4.23.5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5)
 
  - [UniverseLib.Mono](https://github.com/sinai-dev/UniverseLib/releases/tag/1.5.1)
+
+
+#### Need help join the [discord](https://discord.gg/C4jfjBmvWQ)
